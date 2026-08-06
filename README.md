@@ -2,22 +2,19 @@
 
 #### 🏗️ Voici les projets sur lesquels je travaille en ce moment
 
-- [Naxalian/Naxalian-Website](https://naxalian.fr/) - SaaS de gestion de projet collaborative en ligne (since Feb 5, 2023)
-- [Naxalian/PromEase](https://naxalian.fr/about/promease) - SaaS de gestion de bal (since May 10, 2024)
+- [ewenrdo/Math-LessoMaker](https://github.com/ewenrdo/Math-Lesson-Maker) - Cours de mathématiques de licence, modèle de documents LaTeX (since Sept, 2025)
 
 #### 🌱 Mes projets récents
 
-- [FunoxPanda/MDL-Prom-Manager](https://github.com/FunoxPanda/funoxpanda) - Projet privé pour une association : site d'inscription à un événement. (May 21, 2024)
-- [FunoxPanda/Monod-Website-Front](https://github.com/FunoxPanda/Monod-Website-Front) - Refonte graphique du site du lycée Polyvalent Gustave Monod (Feb 16, 2024)
-- [FunoxPanda/Elderquest-Website](https://github.com/FunoxPanda/Elderquest-Website) - Site vitrine d'un serveur minecraft (Jul 23, 2023)
-
+- [ewenrdo/jarvis-pi-backend](https://github.com/ewenrdo/jarvis-pi-backend) - PDA interfactif pour Raspberry Pi auto-géré en JS (Aug, 2026)
+- [ewenrdo/Symplexis](https://github.com/ewenrdo/Symplexis) - Jeu géostratégique en Java x Swing (Jan - Apr, 2026)
+- [ewenrdo/Whorms-S3-UPC](https://github.com/ewenrdo/Whorms-S3-UPC) - Jeu de tir entre vers en Java x Swing. (Oct - Dec, 2025)
 
 #### ❔ Quelques infos sur moi
 
-- Je suis développeur Web Full-Stack amateur orienté ReactJS.
-- Manager et fondateur de [Naxalian Studios](https://studios.naxalian.fr).
+- Étudiant à l'université Paris Cité en double-licence de mathématiques et d'informatique fondamentale
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Qxj47XfxX3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ewen.rdo) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ewen.rdo) [![Strava](https://img.shields.io/badge/Strava-%23FC4C02.svg?logo=strava&logoColor=white)](https://www.strava.com/athletes/ewenrdo)
 
 
-#### ❤️ Envie de mes services ? Vous pouvez [commander ici](https://studios.naxalian.fr/) !
+#### ❤️ Besoin de me contacter ? Vous pouvez [m'envoyer un mail](mailto:contact@ewenrdo.fr) ou [visiter mon site](https://ewenrdo.fr) !
