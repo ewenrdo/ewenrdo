@@ -8,7 +8,7 @@
 
 - [ewenrdo/jarvis-pi-backend](https://github.com/ewenrdo/jarvis-pi-backend) - PDA interfactif pour Raspberry Pi auto-géré en JS (Aug, 2026)
 - [ewenrdo/Symplexis](https://github.com/ewenrdo/Symplexis) - Jeu géostratégique en Java x Swing (Jan - Apr, 2026)
-- [ewenrdo/Worms-S3-UPC](https://github.com/ewenrdo/Worms-S3-UPC) - Jeu de tir entre vers en Java x Swing. (Oct - Dec, 2025)
+- [ewenrdo/Worms-S3-UPC](https://github.com/ewenrdo/Worms-S3-UPC) - Jeu de tir entre vers en Java x Swing (Oct - Dec, 2025)
 
 #### ❔ Quelques infos sur moi
 
