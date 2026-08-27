@@ -13,6 +13,7 @@
 #### ❔ Quelques infos sur moi
 
 - Étudiant à l'université Paris Cité en double-licence de mathématiques et d'informatique fondamentale
+- Papa d'un petit cochon d'inde 🐹 _(ou esclave, allez savoir)_
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ewen.rdo) [![Strava](https://img.shields.io/badge/Strava-%23FC4C02.svg?logo=strava&logoColor=white)](https://www.strava.com/athletes/ewenrdo)
 
