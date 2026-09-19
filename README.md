@@ -4,12 +4,12 @@
 
 - [ewenrdo/dl-mathinfo-vault](https://github.com/ewenrdo/dl-mathinfo-vault) - Polycopiés de mathématiques et d'informatique pour ma double licence (since Sept, 2025)
 - [ewenrdo/mathTex-maker](https://github.com/ewenrdo/mathTex-maker) - Package LaTex pour polycopiés de mathématiques (since Sept, 2025)
-- [ewenrdo/jarvis-pi-backend](https://github.com/ewenrdo/jarvis-pi-backend) - PDA interfactif pour Raspberry Pi auto-géré en JS (since Aug, 2026)
 
 #### 🌱 Mes projets récents
 
 - [ewenrdo/Symplexis](https://github.com/ewenrdo/Symplexis) - Jeu géostratégique en Java x Swing (Jan - Apr, 2026)
 - [ewenrdo/Worms-S3-UPC](https://github.com/ewenrdo/Worms-S3-UPC) - Jeu de tir entre vers en Java x Swing (Oct - Dec, 2025)
+- [ewenrdo/jarvis-pi-backend](https://github.com/ewenrdo/jarvis-pi-backend) - PDA interfactif pour Raspberry Pi auto-géré en JS (Aug - Sept, 2026)
 
 #### ❔ Quelques infos sur moi
 
